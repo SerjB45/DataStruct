@@ -78,15 +78,6 @@ class Queue_3:
     # def get_all_queue(self):
     #     return self.__elements
     
-queue = Queue_3()
-queue.add(1)
-queue.add(2)
-
-print(queue.get_len_queue())
-print(queue.get_all_queue())
-
-print(queue.remove())                 
-print(queue.remove())                 
-print(queue.remove())                 
+                
             
     
